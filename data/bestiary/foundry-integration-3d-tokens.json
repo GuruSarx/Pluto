@@ -1,0 +1,981 @@
+{
+	"aarakocra_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/A/MZ4250%20-%20Aarakocra%20(Light).glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/A/MZ4250%20-%20Aarakocra%20(Black%20Eagle).glb"
+		]
+	},
+	"aboleth_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/A/MZ4250%20-%20Aboleth.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/A/MZ4250%20-%20Aboleth%202.glb"
+		]
+	},
+	"air%20elemental_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/E/Elementals/MZ4250%20-%20Air%20Elemental.glb"
+	},
+	"solar_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/A/MZ4250%20-%20Angel%20Solar.glb"
+	},
+	"ankheg_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/A/MZ4250%20-%20Ankheg.glb"
+	},
+	"arcanaloth_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/Y/Yugoloths/MZ4250%20-%20Arcanaloth.glb"
+	},
+	"axe%20beak_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Axe%20Beak.glb"
+	},
+	"azer_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/A/MZ4250%20-%20Azer.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/A/MZ4250%20-%20Azer%202.glb"
+		]
+	},
+	"banshee_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/MZ4250%20-%20Banshee.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/MZ4250%20-%20Banshee%202.glb"
+		]
+	},
+	"barbed%20devil_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Devils/MZ4250%20-%20Barbed%20Devil.glb"
+	},
+	"basilisk_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/MZ4250%20-%20Basilisk.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/MZ4250%20-%20Basilisk%202.glb"
+		]
+	},
+	"black%20bear_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Bear%20Black.glb"
+	},
+	"brown%20bear_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Bear%20Brown.glb"
+	},
+	"bearded%20devil_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Devils/MZ4250%20-%20Bearded%20Devil.glb"
+	},
+	"behir_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/MZ4250%20-%20Behir.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/MZ4250%20-%20Behir%202.glb"
+		]
+	},
+	"beholder_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/MZ4250%20-%20Beholder.glb"
+	},
+	"spectator_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/S/MZ4250%20-%20Spectator.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/S/MZ4250%20-%20Spectator%202.glb"
+		]
+	},
+	"berserker_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Berzerker.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20B_Misc%20NPCs/MZ4250%20-%20Berserker%2001.glb"
+		]
+	},
+	"blink%20dog_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/MZ4250%20-%20Blink%20Dog.glb"
+	},
+	"blue%20slaad_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/S/Slaadi/MZ4250%20-%20Blue%20Slaad.glb"
+	},
+	"bone%20devil_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Devils/MZ4250%20-%20Bone%20Devil.glb"
+	},
+	"bulette_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/MZ4250%20-%20Bulette.glb"
+	},
+	"bullywug_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/MZ4250%20-%20Bullywug.glb"
+	},
+	"cambion_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/C/MZ4250%20-%20Cambion.glb"
+	},
+	"cat_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Cat%20(black).glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Cat%20(black)%20with%20Hat.glb",
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Cat%20(brown).glb",
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Cat%20(white).glb"
+		]
+	},
+	"chain%20devil_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Devils/MZ4250%20-%20Chain%20Devil.glb"
+	},
+	"chimera_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/C/MZ4250%20-%20Chimera.glb"
+	},
+	"cloaker_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/MZ4250%20-%20Cloaker.glb"
+	},
+	"couatl_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/C/MZ4250%20-%20Couatl.glb"
+	},
+	"crocodile_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Crocodile.glb"
+	},
+	"dao_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/Genies/MZ4250%20-%20Dao.glb"
+	},
+	"darkmantle_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/MZ4250%20-%20Darkmantle.glb"
+	},
+	"death%20dog_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Death%20Dog.glb"
+	},
+	"death%20knight_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/MZ4250%20-%20Death%20Knight.glb"
+	},
+	"dire%20wolf_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Dire%20Wolf.glb"
+	},
+	"displacer%20beast_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/MZ4250%20-%20Displacer%20Beast.glb"
+	},
+	"djinni_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/Genies/MZ4250%20-%20Djinni.glb"
+	},
+	"doppelganger_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/MZ4250%20-%20Doppleganger.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/MZ4250%20-%20Doppleganger%202.glb"
+		]
+	},
+	"draft%20horse_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Draft%20Horse%20.glb"
+	},
+	"adult%20black%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Black.glb"
+	},
+	"ancient%20black%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Black.glb"
+	},
+	"black%20dragon%20wyrmling_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Black.glb"
+	},
+	"young%20black%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Black.glb"
+	},
+	"adult%20blue%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Blue.glb"
+	},
+	"ancient%20blue%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Blue.glb"
+	},
+	"blue%20dragon%20wyrmling_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Blue.glb"
+	},
+	"young%20blue%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Blue.glb"
+	},
+	"adult%20brass%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Brass.glb"
+	},
+	"ancient%20brass%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Brass.glb"
+	},
+	"brass%20dragon%20wyrmling_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Brass.glb"
+	},
+	"young%20brass%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Brass.glb"
+	},
+	"adult%20bronze%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Bronze.glb"
+	},
+	"ancient%20bronze%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Bronze.glb"
+	},
+	"bronze%20dragon%20wyrmling_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Bronze.glb"
+	},
+	"young%20bronze%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Bronze.glb"
+	},
+	"adult%20copper%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Copper.glb"
+	},
+	"ancient%20copper%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Copper.glb"
+	},
+	"copper%20dragon%20wyrmling_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Copper.glb"
+	},
+	"young%20copper%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Copper.glb"
+	},
+	"adult%20gold%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Gold.glb"
+	},
+	"ancient%20gold%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Gold.glb"
+	},
+	"gold%20dragon%20wyrmling_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Gold.glb"
+	},
+	"young%20gold%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Gold.glb"
+	},
+	"adult%20green%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Green.glb"
+	},
+	"ancient%20green%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Green.glb"
+	},
+	"green%20dragon%20wyrmling_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Green.glb"
+	},
+	"young%20green%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Green.glb"
+	},
+	"adult%20red%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Red.glb"
+	},
+	"ancient%20red%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Red.glb"
+	},
+	"young%20red%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Red.glb"
+	},
+	"red%20dragon%20wyrmling_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Red%20Wyrmling.glb"
+	},
+	"adult%20silver%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Silver.glb"
+	},
+	"ancient%20silver%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Silver.glb"
+	},
+	"silver%20dragon%20wyrmling_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Silver.glb"
+	},
+	"young%20silver%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Silver.glb"
+	},
+	"adult%20blue%20dracolich_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20Skeleton.glb"
+	},
+	"adult%20white%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20White.glb"
+	},
+	"ancient%20white%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20White.glb"
+	},
+	"white%20dragon%20wyrmling_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20White.glb"
+	},
+	"young%20white%20dragon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Dragon/MZ4250%20-%20Dragon%20White.glb"
+	},
+	"dretch_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/MZ4250%20-%20Dretch.glb"
+	},
+	"drider_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/MZ4250%20-%20Drider.glb"
+	},
+	"drow%20mage_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Drow/MZ4250%20-%20Drow%20Sorcerer.glb"
+	},
+	"earth%20elemental_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/E/Elementals/MZ4250%20-%20Earth%20Elemental.glb"
+	},
+	"efreeti_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/Genies/MZ4250%20-%20Efreeti.glb"
+	},
+	"empyrean_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/E/MZ4250%20-%20Empyrean.glb"
+	},
+	"erinyes_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Devils/MZ4250%20-%20Erinyes.glb"
+	},
+	"fire%20elemental_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/E/Elementals/MZ4250%20-%20Fire%20Elemental.glb"
+	},
+	"fire%20giant_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/Giants/MZ4250%20-%20Fire%20Giant%20Female.glb"
+	},
+	"flameskull_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/F/MZ4250%20-%20Flameskull.glb"
+	},
+	"flesh%20golem_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/Golems/MZ4250%20-%20Flesh%20Golem.glb"
+	},
+	"flying%20snake_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/F/MZ4250%20-%20Flying%20Snake.glb"
+	},
+	"frost%20giant_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/Giants/MZ4250%20-%20Frost%20Giant%20(Male).glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/Giants/MZ4250%20-%20Frost%20Giant%20(Female).glb"
+		]
+	},
+	"galeb%20duhr_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/MZ4250%20-%20Galeb%20Duhr.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/MZ4250%20-%20Galeb%20Duhr%202.glb"
+		]
+	},
+	"gargoyle_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/MZ4250%20-%20Gargoyle.glb"
+	},
+	"gelatinous%20cube_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/O/Oozes/MZ4250%20-%20Gelatinous%20Cube.glb"
+	},
+	"ghast_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/MZ4250%20-%20Ghast.glb"
+	},
+	"ghost_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/MZ4250%20-%20Ghost.glb"
+	},
+	"ghoul_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/MZ4250%20-%20Ghoul.glb"
+	},
+	"giant%20ape_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Giant%20Ape.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Giant%20Ape%20(Snow).glb"
+		]
+	},
+	"giant%20rat_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Giant%20Rat.glb"
+	},
+	"giant%20constrictor%20snake_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Giant%20Snake.glb"
+	},
+	"giant%20spider_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Giant%20Spider.glb"
+	},
+	"giant%20toad_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Giant%20Toad.glb"
+	},
+	"gibbering%20mouther_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/MZ4250%20-%20Gibbering%20Mouther.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/MZ4250%20-%20Gibbering%20Mouther%202.glb"
+		]
+	},
+	"githyanki%20knight_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/Gith/MZ4250%20-%20Githyanki%20Knight.glb"
+	},
+	"githyanki%20warrior_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/Gith/MZ4250%20-%20Githyanki%20Warrior.glb"
+	},
+	"githzerai%20monk_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/Gith/MZ4250%20-%20Githzerai%20Monk.glb"
+	},
+	"githzerai%20zerth_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/Gith/MZ4250%20-%20Githzerai%20Zerth.glb"
+	},
+	"gnoll_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/MZ4250%20-%20Gnoll.glb"
+	},
+	"gorgon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/MZ4250%20-%20Gorgon.glb"
+	},
+	"green%20hag_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/H/Hags/MZ4250%20-%20Green%20Hag.glb"
+	},
+	"green%20slaad_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/S/Slaadi/MZ4250%20-%20Green%20Slaad.glb"
+	},
+	"grell_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/MZ4250%20-%20Grell.glb"
+	},
+	"grick%20alpha_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/MZ4250%20-%20Grick%20Blue.glb"
+	},
+	"grick_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/MZ4250%20-%20Grick%20Green.glb"
+	},
+	"griffon_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/MZ4250%20-%20Griffon.glb"
+	},
+	"guardian%20naga_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/N/Nagas/MZ4250%20-%20Guardian%20Naga.glb"
+	},
+	"harpy_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/H/MZ4250%20-%20Harpy.glb"
+	},
+	"hell%20hound_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/H/MZ4250%20-%20Hell%20Hound.glb"
+	},
+	"helmed%20horror_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/H/MZ4250%20-%20Helmed%20Horror.glb"
+	},
+	"hook%20horror_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/H/MZ4250%20-%20Hook%20Horror.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/H/MZ4250%20-%20Hook%20Horror%202.glb"
+		]
+	},
+	"horned%20devil_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Devils/MZ4250%20-%20Horned%20Devil.glb"
+	},
+	"ice%20devil_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Devils/MZ4250%20-%20Ice%20Devil.glb"
+	},
+	"intellect%20devourer_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/I/MZ4250%20-%20Intellect%20Devourer.glb"
+	},
+	"invisible%20stalker_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/I/MZ4250%20-%20Invisible%20Stalker.glb"
+	},
+	"iron%20golem_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/Golems/MZ4250%20-%20Iron%20Golem.glb"
+	},
+	"kobold_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/K/MZ4250%20-%20Kobold.glb"
+	},
+	"kraken_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/K/Kraken/MZ4250%20-%20Kraken%20Body.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/K/Kraken/MZ4250%20-%20Kraken%20Tentacle.glb"
+		]
+	},
+	"lemure_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Devils/MZ4250%20-%20Lemur.glb"
+	},
+	"lich_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/L/MZ4250%20-%20Lich.glb"
+	},
+	"lizardfolk_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/L/MZ4250%20-%20Lizardfolk.glb"
+	},
+	"magmin_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/M/MZ4250%20-%20Magmin.glb"
+	},
+	"marid_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/G/Genies/MZ4250%20-%20Marid.glb"
+	},
+	"mastiff_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Mastiff.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Mastiff%20Mount.glb"
+		]
+	},
+	"medusa_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/M/MZ4250%20-%20Medusa.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/M/MZ4250%20-%20Medusa%202.glb",
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/M/MZ4250%20-%20Medusa%20Classic.glb"
+		]
+	},
+	"dust%20mephit_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/M/Mephit/MZ4250%20-%20Mephit%20(Dust).glb"
+	},
+	"ice%20mephit_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/M/Mephit/MZ4250%20-%20Mephit%20(Ice).glb"
+	},
+	"magma%20mephit_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/M/Mephit/MZ4250%20-%20Mephit%20(Magma).glb"
+	},
+	"smoke%20mephit_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/M/Mephit/MZ4250%20-%20Mephit%20(Smoke).glb"
+	},
+	"merrow_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/M/MZ4250%20-%20Merrow.glb"
+	},
+	"mezzoloth_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/Y/Yugoloths/MZ4250%20-%20Mezzoloth.glb"
+	},
+	"mimic_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/M/MZ4250%20-%20Mimic.glb"
+	},
+	"mind%20flayer_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/M/MZ4250%20-%20Mindflayer.glb"
+	},
+	"minotaur_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/M/MZ4250%20-%20Minotaur%20(Brown).glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/M/MZ4250%20-%20Minotaur%20(White).glb"
+		]
+	},
+	"needle%20blight_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/Blights/MZ4250%20-%20Needle%20Blight.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/Blights/MZ4250%20-%20Needle%20Blight%202.glb"
+		]
+	},
+	"night%20hag_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/H/Hags/MZ4250%20-%20Night%20Hag.glb"
+	},
+	"nightmare_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/N/MZ4250%20-%20Nightmare.glb"
+	},
+	"nothic_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/N/MZ4250%20-%20Nothic.glb"
+	},
+	"nycaloth_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/Y/Yugoloths/MZ4250%20-%20Nycaloth%20(Green).glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/Y/Yugoloths/MZ4250%20-%20Nycaloth%20(Red).glb"
+		]
+	},
+	"ogre_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/O/MZ4250%20-%20Ogre.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/O/MZ4250%20-%20Ogre%202.glb"
+		]
+	},
+	"oni_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/O/MZ4250%20-%20Oni.glb"
+	},
+	"otyugh_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/O/MZ4250%20-%20Otyugh.glb"
+	},
+	"peryton_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/P/MZ4250%20-%20Peryton.glb"
+	},
+	"piercer_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/P/MZ4250%20-%20Piercer.glb"
+	},
+	"pit%20fiend_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Devils/MZ4250%20-%20Pit%20Fiend.glb"
+	},
+	"purple%20worm_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/P/MZ4250%20-%20Purple%20Worm.glb"
+	},
+	"quadrone_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/M/Modrones/MZ4250%20-%20Quadrone.glb"
+	},
+	"quaggoth_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/Q/MZ4250%20-%20Quaggoth.glb"
+	},
+	"remorhaz_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/R/MZ4250%20-%20Remorhaz.glb"
+	},
+	"revenant_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/R/MZ4250%20-%20Revenant.glb"
+	},
+	"roc_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/R/MZ4250%20-%20Roc.glb"
+	},
+	"rust%20monster_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/R/MZ4250%20-%20Rust%20Monster.glb"
+	},
+	"salamander_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/S/MZ4250%20-%20Salamander.glb"
+	},
+	"sea%20hag_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/H/Hags/MZ4250%20-%20Sea%20Hag.glb"
+	},
+	"troglodyte_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/T/MZ4250%20-%20Troglodyte.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/T/MZ4250%20-%20Troglodyte%202.glb"
+		]
+	},
+	"shadow_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/S/MZ4250%20-%20Shadow.glb"
+	},
+	"warhorse%20skeleton_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/S/MZ4250%20-%20Skeletal%20Warhorse.glb"
+	},
+	"minotaur%20skeleton_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/S/MZ4250%20-%20Skeleton%20Minotaur.glb"
+	},
+	"spined%20devil_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Devils/MZ4250%20-%20Spined%20Devil.glb"
+	},
+	"succubus_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/S/MZ4250%20-%20Succubus.glb"
+	},
+	"tarrasque_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/T/MZ4250%20-%20Tarrasque.glb"
+	},
+	"drow%20elite%20warrior_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/D/Drow/MZ4250%20-%20Tribal%20Female%20Warrior%20Drow.glb"
+	},
+	"tribal%20warrior_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20B_Misc%20NPCs/MZ4250%20-%20Tribal%20Warrior%20Male%2001.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20B_Misc%20NPCs/MZ4250%20-%20Tribal%20Warrior%20Male%2002.glb"
+		]
+	},
+	"tridrone_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/M/Modrones/MZ4250%20-%20Tridrones.glb"
+	},
+	"troll_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/T/MZ4250%20-%20Troll.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/T/MZ4250%20-%20Troll%202.glb"
+		]
+	},
+	"twig%20blight_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/Blights/MZ4250%20-%20Twig%20Blight.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/Blights/MZ4250%20-%20Twig%20Blight%202.glb"
+		]
+	},
+	"tyrannosaurus%20rex_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/_Appendix%20A_%20Miscellaneous%20Creatures/MZ4250%20-%20Tyrannosaurus%20Rex.glb"
+	},
+	"ultroloth_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/Y/Yugoloths/MZ4250%20-%20Ultroloth%20(Green).glb"
+	},
+	"umber%20hulk_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/U/MZ4250%20-%20Umber%20Hulk.glb"
+	},
+	"vampire_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/V/Vampire/MZ4250%20-%20Vampire%20Lord.glb"
+	},
+	"vampire%20spawn_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/V/Vampire/MZ4250%20-%20Vampire%20Spawn%20Male.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/V/Vampire/MZ4250%20-%20Vampire%20Spawn%20Female.glb"
+		]
+	},
+	"veteran_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/V/MZ4250%20-%20Veteran.glb"
+	},
+	"vine%20blight_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/Blights/MZ4250%20-%20Vine%20Blight.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/B/Blights/MZ4250%20-%20Vine%20Blight%202.glb"
+		]
+	},
+	"violet%20fungus_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/V/MZ4250%20-%20Violet%20Fungus.glb"
+	},
+	"water%20elemental_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/E/Elementals/MZ4250%20-%20Water%20Elemental.glb"
+	},
+	"water%20weird_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/W/MZ4250%20-%20Water%20Weird.glb"
+	},
+	"werebear_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/L/Lycanthropes/MZ4250%20-%20Werebear.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/L/Lycanthropes/MZ4250%20-%20Werebear%20(Black).glb"
+		]
+	},
+	"wererat_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/L/Lycanthropes/MZ4250%20-%20Wererat.glb"
+	},
+	"weretiger_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/L/Lycanthropes/MZ4250%20-%20Weretiger.glb"
+	},
+	"werewolf_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/L/Lycanthropes/MZ4250%20-%20Werewolf%20(Black).glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/L/Lycanthropes/MZ4250%20-%20Werewolf%20(Brown).glb"
+		]
+	},
+	"will-o'-wisp_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/W/MZ4250%20-%20Will-o-Wisp%20Yellow.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/W/MZ4250%20-%20Will-o-Wisp%20Blue.glb"
+		]
+	},
+	"wraith_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/W/MZ4250%20-%20Wraith.glb"
+	},
+	"wyvern_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/W/MZ4250%20-%20Wyvern.glb"
+	},
+	"xorn_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/X/MZ4250%20-%20Xorn.glb"
+	},
+	"yeti_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/Y/MZ4250%20-%20Yeti.glb"
+	},
+	"yuan-ti%20abomination_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/Y/MZ4250%20-%20Yuan-Ti%20Abomination.glb"
+	},
+	"yuan-ti%20malison%20(type%201)_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/Y/MZ4250%20-%20Yuan-Ti%20Malison.glb"
+	},
+	"yuan-ti%20malison%20(type%202)_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/Y/MZ4250%20-%20Yuan-Ti%20Malison.glb"
+	},
+	"yuan-ti%20malison%20(type%203)_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/Y/MZ4250%20-%20Yuan-Ti%20Malison.glb"
+	},
+	"yuan-ti%20pureblood_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/Y/MZ4250%20-%20Yuan-Ti%20Pureblood%20(Female).glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/Y/MZ4250%20-%20Yuan-Ti%20Pureblood%20(Male).glb"
+		]
+	},
+	"beholder%20zombie_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monster%20Manual/Z/MZ4250%20-%20Zombie%20Beholder.glb"
+	},
+	"abyssal%20chicken_bgdia": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Baldur%27s%20Gate_%20Descent%20into%20Avernus/MZ4250%20-%20Abyssal%20Chicken.glb"
+	},
+	"amrik%20vanthampur_bgdia": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Baldur%27s%20Gate_%20Descent%20into%20Avernus/MZ4250%20-%20Amrik%20Vanthapur.glb"
+	},
+	"bel_bgdia": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Baldur%27s%20Gate_%20Descent%20into%20Avernus/MZ4250%20-%20Bel.glb"
+	},
+	"gideon%20lightward_bgdia": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Baldur%27s%20Gate_%20Descent%20into%20Avernus/MZ4250%20-%20Gideon%20Lightward.glb"
+	},
+	"lulu_bgdia": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Baldur%27s%20Gate_%20Descent%20into%20Avernus/MZ4250%20-%20Lulu.glb"
+	},
+	"ulder%20ravengard_bgdia": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Baldur%27s%20Gate_%20Descent%20into%20Avernus/MZ4250%20-%20Ulder%20Ravengard.glb"
+	},
+	"acolyte_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Acolyte.glb"
+	},
+	"ambush%20drake_hotdq": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Ambush%20Drake.glb"
+	},
+	"azbara%20jos_hotdq": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Azbarajos.glb"
+	},
+	"cultist_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Cultist.glb"
+	},
+	"langdedrosa%20cyanwrath_tod": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Cyanwrath.glb"
+	},
+	"dragonclaw_hotdq": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Dragonclaw.glb"
+	},
+	"ice%20toad_rot": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Giant%20Ice%20Toad.glb"
+	},
+	"giant%20lizard_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Giant%20Lizard.glb"
+	},
+	"guard_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Guard.glb"
+	},
+	"hotdq_tod": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Guard%20Drake.glb"
+	},
+	"jamna%20gleamsilver_hotdq": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Jamna%20Gleamsilver.glb"
+	},
+	"winged%20kobold_mm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Kobold%20Wing.glb"
+	},
+	"leosin%20erlanthar_hotdq": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Leosin.glb"
+	},
+	"ontharr%20frume_hotdq": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Ontharr%20Frume.glb"
+	},
+	"dragonwing_hotdq": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Rail%20Spike%20Cultist.glb"
+	},
+	"rezmir_hotdq": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Rezmir.glb"
+	},
+	"tiamat_rot": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tyranny%20of%20Dragons/MZ4250%20-%20Tiamat.glb"
+	},
+	"agdon%20longscarf_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Agdon%20Longscarf.glb"
+	},
+	"bavlorna%20blightstraw_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Bavlorna%20Blightstraw.glb"
+	},
+	"bullywug%20knight_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Bullywug%20Knight.glb"
+	},
+	"bullywug%20royal_gos": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Bullywug%20Royal.glb"
+	},
+	"clapperclaw%20the%20scarecrow_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Clapperclaw.glb"
+	},
+	"darkling_mpmm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Darkling.glb"
+	},
+	"elkhorn_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Dwarf%20Fighter%20(Elkhorn).glb"
+	},
+	"endelyn%20moongrave_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Endelyn%20Moongrave.glb"
+	},
+	"giant%20dragonfly_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Giant%20Dragonfly.glb"
+	},
+	"giant%20snail_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Giant%20Snail.glb"
+	},
+	"detached%20shadow_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Gleam_s%20Shadow.glb"
+	},
+	"harengon%20brigand_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MS4250%20-%20Harengon%20Brigand.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Harengon%20Brigand%20Blue%20Coat.glb",
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Harengon%20Brigand%20Red%20Coat.glb"
+		]
+	},
+	"mercion_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Human%20Cleric%20(Mercion).glb"
+	},
+	"zargash_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Human%20Cleric%20(Zargash).glb"
+	},
+	"warduke_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Human%20Fighter%20(Warduke).glb"
+	},
+	"strongheart_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Human%20Paladin%20(Strongheart).glb"
+	},
+	"molliver_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Human%20Rogue%20(Molliver).glb"
+	},
+	"kelek_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Human%20Sorcerer%20(Kelek)%20.glb"
+	},
+	"skylla_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Human%20Warlock%20(Skylla).glb"
+	},
+	"ringlerun_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Human%20Wizard%20(Ringlerun).glb"
+	},
+	"iggwilv%20the%20witch%20queen_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Iggwilv%20the%20Witch%20Queen.glb"
+	},
+	"kettlesteam%20the%20kenku_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Kettlesteam.glb"
+	},
+	"mister%20light_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Mister%20Light.glb"
+	},
+	"mister%20witch_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Mister%20Witch.glb"
+	},
+	"harengon%20sniper_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20%20-%20Harengon%20Sniper.glb"
+	},
+	"zarak_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Orc%20Rogue%20(Zarak).glb"
+	},
+	"sir%20talavar_wbtw": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/The%20Wild%20Beyond%20the%20Witchlight/MZ4250%20-%20Sir%20Talavar.glb"
+	},
+	"aurinax_wdh": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Waterdeep%20Dragon%20Heist/MZ4250%20-%20Aurinax%20-%20Male%20Dwarf.glb"
+	},
+	"black%20viper_wdh": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Waterdeep%20Dragon%20Heist/MZ4250%20-%20Black%20Viper%20-%20Human%20Female%20Thief.glb"
+	},
+	"durnan_wdh": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Waterdeep%20Dragon%20Heist/MZ4250%20-%20Durnan%20-%20Human%20Male.glb"
+	},
+	"jarlaxle%20baenre_wdh": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Waterdeep%20Dragon%20Heist/MZ4250%20-%20Jarlaxle%20-%20Drow%20Male%20Swashbuckler.glb"
+	},
+	"laeral%20silverhand_wdh": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Waterdeep%20Dragon%20Heist/MZ4250%20-%20Laeral%20Silverhand%20-%20Human%20Female%20Cleric.glb"
+	},
+	"manshoon_wdh": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Waterdeep%20Dragon%20Heist/MZ4250%20-%20Manshoon%20-%20Human%20Male%20Wizard.glb"
+	},
+	"nimblewright_wdh": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Waterdeep%20Dragon%20Heist/MZ4250%20-%20Nimblewright.glb"
+	},
+	"renaer%20neverember_wdh": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Waterdeep%20Dragon%20Heist/MZ4250%20-%20Renaer%20Neverember%20-%20Human%20Male.glb"
+	},
+	"xanathar_wdh": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Waterdeep%20Dragon%20Heist/MZ4250%20-%20Xanathar%20-%20Beholder.glb"
+	},
+	"yalah%20gralhund_wdh": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Waterdeep%20Dragon%20Heist/MZ4250%20-%20Yalah%20Gralhund%20-%20Human%20Female.glb"
+	},
+	"arasta_mot": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mythic%20Odysseys%20of%20Theros/MZ4250%20-%20Arasta%20of%20the%20Endless%20Web.glb"
+	},
+	"underworld%20cerberus_mot": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mythic%20Odysseys%20of%20Theros/MZ4250%20-%20Underworld%20Cerberus.glb"
+	},
+	"woe%20strider_mot": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mythic%20Odysseys%20of%20Theros/MZ4250%20-%20Woe%20Strider.glb"
+	},
+	"aspect%20of%20bahamut_ftd": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Fizban_s%20Treasury%20of%20Dragons/MZ4250%20-%20Bahamut%20the%20Platinum%20Dragon.glb"
+	},
+	"young%20emerald%20dragon_ftd": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Fizban_s%20Treasury%20of%20Dragons/MZ4250%20-%20Dragon%20Emerald.glb"
+	},
+	"emerald%20greatwyrm_ftd": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Fizban_s%20Treasury%20of%20Dragons/MZ4250%20-%20Dragon%20Emerald.glb"
+	},
+	"emerald%20dragon%20wyrmling_ftd": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Fizban_s%20Treasury%20of%20Dragons/MZ4250%20-%20Dragon%20Emerald.glb"
+	},
+	"ancient%20emerald%20dragon_ftd": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Fizban_s%20Treasury%20of%20Dragons/MZ4250%20-%20Dragon%20Emerald.glb"
+	},
+	"adult%20emerald%20dragon_ftd": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Fizban_s%20Treasury%20of%20Dragons/MZ4250%20-%20Dragon%20Emerald.glb"
+	},
+	"bheur%20hag_mpmm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%20Presents_%20Monsters%20of%20the%20Multiverse/MZ4250%20-%20Bheur%20Hag.glb"
+	},
+	"champion_mpmm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%20Presents_%20Monsters%20of%20the%20Multiverse/MZ4250%20-%20Champion.glb",
+		"secondary": [
+			"modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%20Presents_%20Monsters%20of%20the%20Multiverse/MZ4250%20-%20Champion%2001.glb"
+		]
+	},
+	"gazer_mpmm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%20Presents_%20Monsters%20of%20the%20Multiverse/MZ4250%20-%20Gazer.glb"
+	},
+	"githyanki%20gish_mpmm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%20Presents_%20Monsters%20of%20the%20Multiverse/MZ4250%20-%20Githyanki%20Gish%20Female%2001.glb"
+	},
+	"githyanki%20kith'rak_mpmm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%20Presents_%20Monsters%20of%20the%20Multiverse/MZ4250%20-%20Githyanki%20Kithrak%20Male%2001.glb"
+	},
+	"githyanki%20supreme%20commander_mpmm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%20Presents_%20Monsters%20of%20the%20Multiverse/MZ4250%20-%20Githyanki%20Supreme%20Commander.glb"
+	},
+	"githzerai%20anarch_mpmm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%20Presents_%20Monsters%20of%20the%20Multiverse/MZ4250%20-%20Githzerai%20Anarch.glb"
+	},
+	"githzerai%20enlightened_mpmm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%20Presents_%20Monsters%20of%20the%20Multiverse/MZ4250%20-%20Githzerai%20Enlightened.glb"
+	},
+	"hydroloth_mpmm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%20Presents_%20Monsters%20of%20the%20Multiverse/MZ4250%20-%20Hydroloth.glb"
+	},
+	"lost%20sorrowsworn_mpmm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%20Presents_%20Monsters%20of%20the%20Multiverse/Sorrowsworn/MZ4250%20-%20Lost%20Sorrowsworn.glb"
+	},
+	"merrenoloth_mpmm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%20Presents_%20Monsters%20of%20the%20Multiverse/MZ4250%20-%20Merrenoloth.glb"
+	},
+	"nightwalker_mpmm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%20Presents_%20Monsters%20of%20the%20Multiverse/MZ4250%20-%20Nightwalker.glb"
+	},
+	"redcap_mpmm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%20Presents_%20Monsters%20of%20the%20Multiverse/MZ4250%20-%20Redcap.glb"
+	},
+	"star%20spawn%20larva%20mage_mpmm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%20Presents_%20Monsters%20of%20the%20Multiverse/Star%20Spawn/MZ4250%20-%20Star%20Spawn%20Larva%20Mage.glb"
+	},
+	"wastrilith_mpmm": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%20Presents_%20Monsters%20of%20the%20Multiverse/MZ4250%20-%20Wastrilith.glb"
+	},
+	"chardalyn%20dragon_idrotf": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Icewind%20Dale%20-%20Rime%20of%20the%20Frostmaiden/MZ4250%20-%20Dragon%20Chardalyn.glb"
+	},
+	"eldritch%20lich_mcv1sc": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Monstrous%20Compendium%20Volume%2001_%20Spelljammer%20Creatures/MZ4250%20-%20Eldritch%20Lich.glb"
+	},
+	"githyanki%20gish_mtf": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%E2%80%99s%20Tome%20of%20Foes/MZ4250%20-%20Githyanki%20Gish.glb"
+	},
+	"gray%20render_mtf": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Mordenkainen%E2%80%99s%20Tome%20of%20Foes/MZ4250%20-%20Gray%20Render.glb"
+	},
+	"volothamp%20%22volo%22%20geddarm_toa": {
+		"primary": "modules/canvas3dtokencompendium/miniatures/_Colorized/Tomb%20of%20Annihilation/MZ4250%20-%20Volothamp%20Geddarm.glb"
+	}
+}
