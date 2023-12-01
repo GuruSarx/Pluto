@@ -1,0 +1,70 @@
+#compendium .directory-item.compendium {
+  position: relative;
+  line-height: 24px;
+  height: unset;
+  flex-direction: row;
+  align-items: center;
+}
+
+.compendium-sidebar .directory-item.compendium .compendium-name {
+  margin-right: 0;
+  padding-top: 0;
+  text-align: left;
+  display: flex;
+}
+
+.compendium-sidebar .directory-item.compendium .compendium-name a {
+  margin-top: 1px;
+  margin-bottom: 1px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+.compendium-sidebar .directory-item.compendium .compendium-footer {
+  position: relative;
+  top: unset;
+  left: unset;
+  margin-right: 1rem;
+  width: unset;
+  height: unset;
+  text-align: right;
+  display: flex;
+  justify-content: right;
+}
+
+.compendium-sidebar .directory-item.compendium.locked::before {
+  height: 100%;
+}
+
+.compendium-sidebar .directory-item.compendium .status-icons {
+  right: 0;
+  flex-direction: column;
+  font-size: 50%;
+  height: 100%;
+  padding: 3px 3px 3px 0;
+  align-items: center;
+  justify-content: center;
+}
+
+#compendium li.folder > .folder-header {
+  padding: 0 6px;
+}
+
+.compendium-sidebar .directory-item.compendium .compendium-name {
+  max-width: 70%;
+  white-space: normal;
+  margin-left: 1px;
+}
+
+.compendium-sidebar .directory-item.compendium .compendium-name > i {
+  align-self: center;
+}
+
+.compendium-sidebar .directory-item.compendium .compendium-footer .source {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 70px;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=optional-compact-compendiums.css.map */

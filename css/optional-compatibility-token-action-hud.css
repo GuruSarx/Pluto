@@ -1,0 +1,12 @@
+#tooltip.tah-tooltip :is(a.jlnk__entity-link),
+#tooltip.active:has(.tah-tooltip-wrapper) :is(a.jlnk__entity-link) {
+  background: none;
+  border: 0;
+  color: var(--color-text-light-7);
+  font-weight: 600;
+  line-height: 1em;
+  margin: 0;
+  padding: 0;
+}
+
+/*# sourceMappingURL=optional-compatibility-token-action-hud.css.map */

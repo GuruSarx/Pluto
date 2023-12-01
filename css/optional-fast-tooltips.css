@@ -1,0 +1,19 @@
+/* region Plutonium-specific */
+/* endregion */
+/* region Required by 5etools deps */
+/* region Timing */
+/* endregion */
+/* region filters */
+/* endregion */
+/* region Should never occur */
+/* endregion */
+/* endregion */
+#tooltip {
+  transition: visibility 0s 51ms, opacity 51ms;
+}
+
+#tooltip.active {
+  transition: opacity 51ms;
+}
+
+/*# sourceMappingURL=optional-fast-tooltips.css.map */
